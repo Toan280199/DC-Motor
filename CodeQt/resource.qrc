@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/mauvang">
+        <file>mauvang/vang.png</file>
+        <file>mauvang/do.png</file>
+    </qresource>
+</RCC>
